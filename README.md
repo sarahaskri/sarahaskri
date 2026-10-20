@@ -1,240 +1,165 @@
-<!-- ===================================================== -->
-<!-- SARAH ASKRI | GITHUB PROFILE                          -->
-<!-- Data Science • AI • Cloud • Software Engineering      -->
-<!-- Dark / Light mode: automatic (follows GitHub theme)   -->
-<!-- ===================================================== -->
+
+<!-- ═══════════════════════════════════════════════
+     SARAH ASKRI | GITHUB PROFILE
+     Creative identity: Beyond the Code
+════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<!-- ============ BANNER (dark + light) ============ -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0B1020,50:312E81,100:0891B2&text=SARAH%20ASKRI&fontSize=54&fontColor=FFFFFF&fontAlignY=38&desc=DATA%20SCIENCE%20%C2%B7%20AI%20%C2%B7%20CLOUD%20%C2%B7%20SOFTWARE%20ENGINEERING&descSize=14&descAlignY=60&animation=fadeIn">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:6366F1,50:0EA5E9,100:22D3EE&text=SARAH%20ASKRI&fontSize=54&fontColor=FFFFFF&fontAlignY=38&desc=DATA%20SCIENCE%20%C2%B7%20AI%20%C2%B7%20CLOUD%20%C2%B7%20SOFTWARE%20ENGINEERING&descSize=14&descAlignY=60&animation=fadeIn">
-  <img width="100%" alt="Sarah Askri banner" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0B1020,50:312E81,100:0891B2&text=SARAH%20ASKRI&fontSize=54&fontColor=FFFFFF&fontAlignY=38&desc=DATA%20SCIENCE%20%C2%B7%20AI%20%C2%B7%20CLOUD%20%C2%B7%20SOFTWARE%20ENGINEERING&descSize=14&descAlignY=60&animation=fadeIn">
-</picture>
-
-<!-- ============ TYPING ANIMATION (dark + light) ============ -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=67E8F9&center=true&vCenter=true&width=780&lines=Master%27s+Student+in+Data+Science;Machine+Learning+%26+Artificial+Intelligence;Big+Data+%C2%B7+Cloud+%C2%B7+Docker;Turning+Data+into+Meaningful+Insights;Building+Intelligent+Software+Solutions">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=4338CA&center=true&vCenter=true&width=780&lines=Master%27s+Student+in+Data+Science;Machine+Learning+%26+Artificial+Intelligence;Big+Data+%C2%B7+Cloud+%C2%B7+Docker;Turning+Data+into+Meaningful+Insights;Building+Intelligent+Software+Solutions">
-  <img alt="Typing introduction" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=4338CA&center=true&vCenter=true&width=780&lines=Master%27s+Student+in+Data+Science;Machine+Learning+%26+Artificial+Intelligence;Big+Data+%C2%B7+Cloud+%C2%B7+Docker;Turning+Data+into+Meaningful+Insights;Building+Intelligent+Software+Solutions">
-</picture>
-
-<br/><br/>
-
-<a href="https://github.com/sarahaskri"><img src="https://img.shields.io/badge/GitHub-sarahaskri-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<img src="https://img.shields.io/badge/Data%20Science-7C3AED?style=for-the-badge&logo=python&logoColor=white" alt="Data Science"/>
-<img src="https://img.shields.io/badge/AI%20%26%20ML-2563EB?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI & ML"/>
-<img src="https://img.shields.io/badge/Cloud-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Cloud"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-
-<br/><br/>
-
-<a href="https://github.com/sarahaskri?tab=repositories"><img src="https://img.shields.io/badge/Explore%20My-Projects-06B6D4?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects"/></a>
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:7C3AED,45:4F46E5,100:06B6D4&text=SARAH%20ASKRI&fontSize=48&fontColor=FFFFFF&fontAlignY=35&desc=DATA%20SCIENCE%20%7C%20AI%20%7C%20BIG%20DATA%20%7C%20CLOUD&descSize=14&descAlignY=56&animation=fadeIn" alt="Sarah Askri — Data Science, AI, Big Data and Cloud"/>
 
 <br/>
 
----
-
-## ✦ About Me
-
-Hi, I'm **Sarah Askri** 👋
-
-🎓 **Master's student in Data Science**, with a solid background in **Software Engineering and Information Systems**.
-
-🧠 I work at the crossroads of **Data Science, Machine Learning, AI and Data Mining**: exploring data, uncovering patterns and building intelligent solutions to real-world problems.
-
-☁️ I have studied **Big Data** and **Cloud Computing**, hold **certifications from DataCamp and AWS**, and use **Docker** to build reproducible, portable environments.
-
-💻 My engineering background lets me cover the full chain, from data processing and model development to web and mobile application delivery.
-
-<div align="center">
-
-> *"Turning data into insights, ideas into solutions, and curiosity into impact."*
-
-</div>
-
----
-
-## ✦ Core Expertise
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### 🧠 Data Science & AI
-
-- Python for data analysis
-- Data Mining & preprocessing
-- Machine Learning fundamentals
-- Model evaluation
-- Pattern discovery & interpretation
-- AI-powered applications
-
-</td>
-<td width="33%" valign="top">
-
-### ☁️ Big Data & Cloud
-
-- Big Data concepts & architectures
-- Cloud Computing fundamentals
-- AWS cloud services
-- Containerization with **Docker**
-- Reproducible environments
-
-</td>
-<td width="33%" valign="top">
-
-### 💻 Software Engineering
-
-- Object-oriented programming
-- Web & mobile development
-- REST API development
-- Database design & integration
-- MVC architecture
-- Git, Agile / Scrum
-
-</td>
-</tr>
-</table>
-
----
-
-## ✦ Tech Stack
-
-<div align="center">
-
-<!-- Icons automatically adapt to dark / light mode -->
-<p><b>Programming & Data</b></p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,java,js,dart&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,java,js,dart&theme=light">
-  <img alt="Programming languages" src="https://skillicons.dev/icons?i=python,java,js,dart&theme=dark">
-</picture>
-
-<p><b>Cloud & DevOps</b></p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws,docker,git,github&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=aws,docker,git,github&theme=light">
-  <img alt="Cloud and DevOps" src="https://skillicons.dev/icons?i=aws,docker,git,github&theme=dark">
-</picture>
-
-<p><b>Web & Mobile</b></p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,react,nodejs,express,flutter&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html,css,react,nodejs,express,flutter&theme=light">
-  <img alt="Web and mobile" src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,flutter&theme=dark">
-</picture>
-
-<p><b>Databases & Backend</b></p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mongodb,mysql,firebase&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=mongodb,mysql,firebase&theme=light">
-  <img alt="Databases" src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&theme=dark">
-</picture>
-
-<p><b>Tools & IoT</b></p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vscode,postman,arduino&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vscode,postman,arduino&theme=light">
-  <img alt="Tools" src="https://skillicons.dev/icons?i=vscode,postman,arduino&theme=dark">
-</picture>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Data%20Analysis-0F766E?style=flat-square" alt="Data Analysis"/>
-<img src="https://img.shields.io/badge/Data%20Mining-7C3AED?style=flat-square" alt="Data Mining"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-2563EB?style=flat-square" alt="Machine Learning"/>
-<img src="https://img.shields.io/badge/Big%20Data-E11D48?style=flat-square" alt="Big Data"/>
-<img src="https://img.shields.io/badge/Cloud%20Computing-FF9900?style=flat-square" alt="Cloud Computing"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32"/>
-<img src="https://img.shields.io/badge/IoT-0891B2?style=flat-square" alt="IoT"/>
-
-</div>
-
----
-
-## ✦ Certifications & Learning
-
-<div align="center">
-
-<!-- 👉 Replace the labels below with the exact names of your certificates -->
-<!-- 👉 Add the verification link in href="" if you have one (Credly, DataCamp, AWS Skill Builder) -->
-
-<a href="#">
-  <img src="https://img.shields.io/badge/AWS-Certification%20Name-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certification"/>
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/DataCamp-Certification%20Name-03EF62?style=for-the-badge&logo=datacamp&logoColor=white" alt="DataCamp Certification"/>
+<a href="https://readme-typing-svg.demolab.com">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2800&pause=800&color=67E8F9&center=true&vCenter=true&width=750&lines=Master%27s+Student+in+Data+Science;Exploring+AI+%26+Machine+Learning;Learning+Big+Data+%26+Cloud+Computing;Docker+%7C+AWS+%7C+DataCamp+Certifications;Building+Ideas+into+Intelligent+Solutions;Where+Logic+Meets+Creativity+%E2%9C%A8" alt="Animated introduction"/>
 </a>
 
 <br/><br/>
 
-<table>
-<tr>
-<td align="center" width="33%">
-
-**☁️ Cloud**
-
-Cloud Computing concepts and AWS services.
-
-</td>
-<td align="center" width="33%">
-
-**📊 Big Data**
-
-Big Data principles, architectures and processing.
-
-</td>
-<td align="center" width="33%">
-
-**🐳 Docker**
-
-Containers, images and reproducible environments.
-
-</td>
-</tr>
-</table>
+<a href="https://github.com/sarahaskri">
+<img src="https://img.shields.io/badge/GitHub-Sarah%20Askri-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<img src="https://img.shields.io/badge/Data%20Science-7C3AED?style=for-the-badge&logo=python&logoColor=white" alt="Data Science"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-4F46E5?style=for-the-badge&logo=openai&logoColor=white" alt="Artificial Intelligence"/>
+<img src="https://img.shields.io/badge/Big%20Data-0891B2?style=for-the-badge&logo=apachespark&logoColor=white" alt="Big Data"/>
+<img src="https://img.shields.io/badge/Cloud%20%26%20DevOps-DB2777?style=for-the-badge&logo=docker&logoColor=white" alt="Cloud and DevOps"/>
 
 </div>
 
 ---
 
-## ✦ Featured Projects
+<!-- ═══════════════ ABOUT ME ═══════════════ -->
+
+## ✨ 01 — About Me
+
+Hi there! I'm **Sarah Askri** 👋
+
+🎓 I'm a **Master's student in Data Science**, with a background in Software Engineering and Information Systems.
+
+🧠 I'm interested in **Data Science, Machine Learning, Artificial Intelligence, and Data Mining**, with a focus on transforming data into meaningful insights and intelligent solutions.
+
+📊 I've studied **Big Data and Cloud Computing**, and I'm eager to deepen my knowledge of data processing, scalable systems, and cloud-based technologies.
+
+☁️ I'm familiar with **Docker and AWS**, and I'm continuously exploring containerization, cloud services, and modern development workflows.
+
+🏅 I've earned certifications through **DataCamp and AWS**, reflecting my commitment to developing my technical skills and expanding my knowledge.
+
+💻 I enjoy building web and mobile applications, exploring intelligent systems, and connecting software engineering with data-driven technologies.
+
+🎨 I also enjoy the creative side of technology: thoughtful interfaces, modern aesthetics, and user experiences that make digital products intuitive and engaging.
+
+🌱 I'm always learning, experimenting, and looking for opportunities to grow at the intersection of **Data Science, AI, Software Engineering, Big Data, and Cloud Computing**.
+
+<br/>
+
+> 💜 *I believe the best solutions happen where intelligence meets creativity.*
+
+---
+
+<!-- ═══════════════ TECHNOLOGY STACK ═══════════════ -->
+
+## 🛠️ 02 — My Technology Universe
 
 <div align="center">
 
-*From data exploration to intelligent, connected applications.*
+### 🧠 DATA SCIENCE, AI & MACHINE LEARNING
+
+<img src="https://skillicons.dev/icons?i=python" alt="Python"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Data%20Mining-7C3AED?style=for-the-badge" alt="Data Mining"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Machine%20Learning-4F46E5?style=for-the-badge" alt="Machine Learning"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Data%20Analysis-0891B2?style=for-the-badge" alt="Data Analysis"/>
+
+### 📊 BIG DATA & DATA TECHNOLOGIES
+
+<img src="https://img.shields.io/badge/Big%20Data-0891B2?style=for-the-badge&logo=apachespark&logoColor=white" alt="Big Data"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Data%20Processing-0F766E?style=for-the-badge" alt="Data Processing"/>
+&nbsp;
+<img src="https://img.shields.io/badge/SQL-2563EB?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+
+### ☁️ CLOUD, CONTAINERS & DEVOPS
+
+<img src="https://skillicons.dev/icons?i=docker,aws" alt="Docker and AWS"/>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="Amazon Web Services"/>
+<img src="https://img.shields.io/badge/Cloud%20Computing-4F46E5?style=for-the-badge&logo=icloud&logoColor=white" alt="Cloud Computing"/>
+
+### 💻 WEB & MOBILE DEVELOPMENT
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,flutter,dart" alt="Web and mobile technologies"/>
+
+### 🗄️ DATABASES & DEVELOPER TOOLS
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,git,github,vscode,postman" alt="Databases and developer tools"/>
+
+### 🔌 IoT & CONNECTED SYSTEMS
+
+<img src="https://skillicons.dev/icons?i=arduino" alt="Arduino"/>
+&nbsp;
+<img src="https://img.shields.io/badge/ESP32-IoT%20Development-CC342D?style=for-the-badge" alt="ESP32"/>
 
 </div>
+
+---
+
+<!-- ═══════════════ CERTIFICATIONS ═══════════════ -->
+
+## 🏅 03 — Certifications & Continuous Learning
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/DataCamp-Certifications-03EF62?style=for-the-badge&logo=datacamp&logoColor=white" alt="DataCamp"/>
+<img src="https://img.shields.io/badge/AWS-Certifications%20%26%20Learning-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+
+</div>
+
+I believe that continuous learning is essential in the fast-evolving world of technology. Alongside my Master's studies, I've pursued additional learning and certifications to strengthen my knowledge.
+
+- 🐍 **DataCamp:** Certifications and learning in data-related and technical subjects.
+- ☁️ **Amazon Web Services (AWS):** Certification-based learning and exploration of cloud technologies.
+- 🐳 **Docker:** Familiarity with containerization concepts and development environments.
+- 📚 **Big Data & Cloud Computing:** Academic learning and exploration of data processing and cloud-based systems.
+
+> *My goal is to keep strengthening my skills through practical projects, technical learning, and recognized certifications.*
+
+*Tip: Add the exact names of your certifications and their verification links when you are ready to showcase each credential individually.*
+
+---
+
+<!-- ═══════════════ PROJECTS ═══════════════ -->
+
+## 🚀 04 — Selected Projects
+
+*A collection of projects where data, intelligent systems, software engineering, and connected technologies come together.*
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🌍 Natural Disaster Data Mining
+<h3>🌍 Natural Disaster Data Mining</h3>
 
-<img src="https://img.shields.io/badge/DOMAIN-DATA%20SCIENCE-7C3AED?style=flat-square" alt="Data Science"/>
+<img src="https://img.shields.io/badge/DATA%20SCIENCE-7C3AED?style=flat-square" alt="Data Science"/>
 
-Exploring natural disaster datasets with Data Mining techniques to identify patterns, analyze trends and extract meaningful insights.
+Applying Data Mining techniques to natural disaster data to identify patterns, analyze trends, and extract meaningful insights.
 
-`Python` `Data Analysis` `Data Mining`
+**Focus:** Python · Data Analysis · Data Mining
 
-<a href="https://github.com/sarahaskri/natural-disaster-data-mining">↗ View Repository</a>
+<a href="https://github.com/sarahaskri/natural-disaster-data-mining"><strong>↗ Explore Repository</strong></a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🏋️ FitYes
+<h3>🏋️ FitYes</h3>
 
-<img src="https://img.shields.io/badge/DOMAIN-AI%20%26%20SOFTWARE-0891B2?style=flat-square" alt="AI and Software"/>
+<img src="https://img.shields.io/badge/AI%20%2B%20APPLICATIONS-0891B2?style=flat-square" alt="AI and applications"/>
 
-A fitness and nutrition web and mobile app with progress tracking, nutritional insights, workout management and AI-assisted personalized recommendations.
+A fitness and nutrition web and mobile application featuring workout tracking, nutritional insights, progress monitoring, and AI-assisted personalized recommendations.
 
-`Flutter` `React` `Node.js` `MongoDB` `Firebase` `Gemini AI`
+**Focus:** Flutter · React · Node.js · MongoDB · Firebase · AI
 
 </td>
 </tr>
@@ -242,24 +167,24 @@ A fitness and nutrition web and mobile app with progress tracking, nutritional i
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 goEmotion
+<h3>🧠 goEmotion</h3>
 
-<img src="https://img.shields.io/badge/DOMAIN-MACHINE%20LEARNING-6D28D9?style=flat-square" alt="Machine Learning"/>
+<img src="https://img.shields.io/badge/MACHINE%20LEARNING-6D28D9?style=flat-square" alt="Machine Learning"/>
 
-A Machine Learning project on emotion-related analysis and prediction, exploring how data-driven models identify meaningful patterns.
+A Machine Learning project focused on emotion-related analysis and intelligent prediction.
 
-`Python` `Machine Learning`
+**Focus:** Python · Machine Learning
 
 </td>
 <td width="50%" valign="top">
 
-### 🏙️ CivicPulse AI
+<h3>🏙️ CivicPulse AI</h3>
 
-<img src="https://img.shields.io/badge/DOMAIN-ARTIFICIAL%20INTELLIGENCE-0F766E?style=flat-square" alt="Artificial Intelligence"/>
+<img src="https://img.shields.io/badge/ARTIFICIAL%20INTELLIGENCE-0F766E?style=flat-square" alt="Artificial Intelligence"/>
 
-An AI-oriented project exploring intelligent, data-driven approaches to civic challenges and useful digital solutions.
+An AI-focused project exploring intelligent solutions for civic-related challenges.
 
-`AI` `Data Science`
+**Focus:** AI · Data Science
 
 </td>
 </tr>
@@ -267,147 +192,91 @@ An AI-oriented project exploring intelligent, data-driven approaches to civic ch
 <tr>
 <td colspan="2" valign="top">
 
-### 🏥 IoT-Based IV Bag Monitoring System
+<h3>🏥 IoT Monitoring Application</h3>
 
-<img src="https://img.shields.io/badge/DOMAIN-IOT%20%26%20CONNECTED%20SYSTEMS-0E7490?style=flat-square" alt="IoT"/>
+<img src="https://img.shields.io/badge/INTERNET%20OF%20THINGS-0E7490?style=flat-square" alt="Internet of Things"/>
 
-A connected system that tracks IV fluid levels, monitors flow rates, estimates remaining infusion time and detects potential obstructions using sensors and real-time application alerts.
+An IoT-based IV bag monitoring system designed to track fluid levels, monitor flow rates, estimate remaining time, and detect potential obstructions through connected sensors and application alerts.
 
-`ESP32` `Flutter` `Node.js` `MongoDB` `Sensors`
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-<a href="https://github.com/sarahaskri?tab=repositories"><img src="https://img.shields.io/badge/More%20Projects-Explore%20Repositories-312E81?style=for-the-badge&logo=github&logoColor=white" alt="More projects"/></a>
-
-</div>
-
----
-
-## ✦ Currently Exploring
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="20%">
-
-<img src="https://img.shields.io/badge/01-7C3AED?style=for-the-badge" alt="01"/>
-
-**Data Science**
-
-Preparation, exploration and insight generation.
-
-</td>
-<td align="center" width="20%">
-
-<img src="https://img.shields.io/badge/02-2563EB?style=for-the-badge" alt="02"/>
-
-**Machine Learning**
-
-Modeling and performance evaluation.
-
-</td>
-<td align="center" width="20%">
-
-<img src="https://img.shields.io/badge/03-0891B2?style=for-the-badge" alt="03"/>
-
-**Artificial Intelligence**
-
-Intelligent systems and AI applications.
-
-</td>
-<td align="center" width="20%">
-
-<img src="https://img.shields.io/badge/04-FF9900?style=for-the-badge" alt="04"/>
-
-**Cloud & Big Data**
-
-Scalable data processing on the cloud.
-
-</td>
-<td align="center" width="20%">
-
-<img src="https://img.shields.io/badge/05-2496ED?style=for-the-badge" alt="05"/>
-
-**Docker & DevOps**
-
-Containerized, reproducible workflows.
+**Focus:** ESP32 · Flutter · Node.js · MongoDB · IoT
 
 </td>
 </tr>
 </table>
 
-</div>
-
----
-
-## ✦ GitHub Analytics
-
 <div align="center">
 
-<!-- Stats cards adapt automatically to dark / light mode -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=sarahaskri&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=22D3EE&text_color=C9D1D9&rank_icon=github">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=sarahaskri&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=4338CA&icon_color=0891B2&text_color=1F2937&rank_icon=github">
-  <img height="170" alt="GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=sarahaskri&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=22D3EE&text_color=C9D1D9&rank_icon=github">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahaskri&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahaskri&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=4338CA&text_color=1F2937&langs_count=8">
-  <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahaskri&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8">
-</picture>
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=sarahaskri&hide_border=true&background=0D1117&ring=8B5CF6&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=C9D1D9&dates=9CA3AF&currStreakNum=FFFFFF&sideNums=FFFFFF">
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=sarahaskri&hide_border=true&background=FFFFFF&ring=6366F1&fire=0891B2&currStreakLabel=0891B2&sideLabels=1F2937&dates=6B7280&currStreakNum=111827&sideNums=111827">
-  <img width="95%" alt="GitHub streak" src="https://streak-stats.demolab.com?user=sarahaskri&hide_border=true&background=0D1117&ring=8B5CF6&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=C9D1D9&dates=9CA3AF&currStreakNum=FFFFFF&sideNums=FFFFFF">
-</picture>
+*More details, source code, and documentation are available in the respective project repositories as they are published.*
 
 </div>
 
 ---
 
-## ✦ Beyond Technology
+<!-- ═══════════════ CREATIVE SIDE ═══════════════ -->
 
-- 🌍 **Exploration:** discovering new places, cultures and perspectives
-- 📚 **Continuous learning:** certifications, courses and emerging technologies
-- 🧩 **Problem-solving:** breaking complex challenges into manageable solutions
-- 🤝 **Collaboration:** sharing ideas and building projects together
-- 🚀 **Innovation:** turning concepts into practical, useful applications
-
----
-
-## ✦ Let's Connect
+## 🎨 05 — Beyond Code: My Creative Side
 
 <div align="center">
 
-I'm always open to learning, exchanging ideas and collaborating on meaningful technology projects.
+<img src="https://img.shields.io/badge/CREATIVE%20DESIGN-7C3AED?style=for-the-badge&logo=figma&logoColor=white" alt="Creative Design"/>
+<img src="https://img.shields.io/badge/UI%2FUX-DB2777?style=for-the-badge" alt="UI UX"/>
+<img src="https://img.shields.io/badge/VISUAL%20STORYTELLING-0891B2?style=for-the-badge" alt="Visual Storytelling"/>
 
-<br/>
+</div>
 
-<a href="https://github.com/sarahaskri"><img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<!-- Add your LinkedIn when ready:
-<a href="https://www.linkedin.com/in/YOUR-ID"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
--->
+I believe technology should not only work well — it should also look beautiful, feel intuitive, and create memorable experiences.
+
+My creative interests include:
+
+- 🎨 Exploring color palettes, visual identities, and modern aesthetics.
+- 🪄 Discovering UI/UX principles and designing intuitive interfaces.
+- 💡 Combining creativity with technical problem-solving.
+- ✨ Making applications visually engaging and enjoyable to use.
+
+**My creative philosophy:** Great technology solves problems. Great design makes people love using it.
+
+---
+
+<!-- ═══════════════ GITHUB ANALYTICS ═══════════════ -->
+
+## 📊 06 — GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/sarahaskri">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sarahaskri&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=67E8F9&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics"/>
+</a>
+
+<a href="https://github.com/sarahaskri">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahaskri&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" alt="Most used languages"/>
+</a>
 
 <br/><br/>
 
-**Open to learning opportunities, technical collaboration and innovative projects.**
+<img width="95%" src="https://streak-stats.demolab.com?user=sarahaskri&hide_border=true&background=0D1117&ring=A78BFA&fire=67E8F9&currStreakLabel=67E8F9&sideLabels=C9D1D9&dates=9CA3AF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak"/>
 
-<br/>
+</div>
 
-*Curious mind · Data-driven thinking · Continuous growth*
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0891B2,50:312E81,100:0B1020">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:22D3EE,50:0EA5E9,100:6366F1">
-  <img width="100%" alt="Footer banner" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0891B2,50:312E81,100:0B1020">
-</picture>
+<!-- ═══════════════ CONNECT ═══════════════ -->
+
+## 🌐 07 — Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/sarahaskri">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<!-- Add your verified LinkedIn URL here when ready -->
+
+<br/><br/>
+
+*Always curious. Always learning. Always building.*
+
+### ✨ Thanks for stopping by!
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:06B6D4,50:4F46E5,100:7C3AED" alt="Decorative gradient footer"/>
 
 </div>
