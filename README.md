@@ -6,12 +6,12 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:7C3AED,45:4F46E5,100:06B6D4&text=SARAH%20ASKRI&fontSize=48&fontColor=FFFFFF&fontAlignY=35&desc=DATA%20SCIENCE%20%7C%20AI%20%7C%20BIG%20DATA%20%7C%20CLOUD&descSize=14&descAlignY=56&animation=fadeIn" alt="Sarah Askri — Data Science, AI, Big Data and Cloud"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:7C3AED,45:4F46E5,100:06B6D4&text=SARAH%20ASKRI&fontSize=48&fontColor=FFFFFF&fontAlignY=35&desc=DATA%20SCIENCE%20%7C%20AI%20%7C%20SOFTWARE%20%7C%20DESIGN&descSize=14&descAlignY=56&animation=fadeIn" alt="Sarah Askri — Data Science, AI, Software and Design"/>
 
 <br/>
 
 <a href="https://readme-typing-svg.demolab.com">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2800&pause=800&color=67E8F9&center=true&vCenter=true&width=750&lines=Master%27s+Student+in+Data+Science;Exploring+AI+%26+Machine+Learning;Learning+Big+Data+%26+Cloud+Computing;Docker+%7C+AWS+%7C+DataCamp+Certifications;Building+Ideas+into+Intelligent+Solutions;Where+Logic+Meets+Creativity+%E2%9C%A8" alt="Animated introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2800&pause=800&color=67E8F9&center=true&vCenter=true&width=700&lines=Master%27s+Student+in+Data+Science;Exploring+AI+%26+Machine+Learning;Building+Ideas+into+Intelligent+Solutions;Passionate+about+Creative+Design+%26+UI%2FUX;Where+Logic+Meets+Creativity+%E2%9C%A8" alt="Animated introduction"/>
 </a>
 
 <br/><br/>
@@ -21,8 +21,7 @@
 </a>
 <img src="https://img.shields.io/badge/Data%20Science-7C3AED?style=for-the-badge&logo=python&logoColor=white" alt="Data Science"/>
 <img src="https://img.shields.io/badge/Artificial%20Intelligence-4F46E5?style=for-the-badge&logo=openai&logoColor=white" alt="Artificial Intelligence"/>
-<img src="https://img.shields.io/badge/Big%20Data-0891B2?style=for-the-badge&logo=apachespark&logoColor=white" alt="Big Data"/>
-<img src="https://img.shields.io/badge/Cloud%20%26%20DevOps-DB2777?style=for-the-badge&logo=docker&logoColor=white" alt="Cloud and DevOps"/>
+<img src="https://img.shields.io/badge/Creative%20Design-DB2777?style=for-the-badge&logo=figma&logoColor=white" alt="Creative Design"/>
 
 </div>
 
@@ -36,19 +35,13 @@ Hi there! I'm **Sarah Askri** 👋
 
 🎓 I'm a **Master's student in Data Science**, with a background in Software Engineering and Information Systems.
 
-🧠 I'm interested in **Data Science, Machine Learning, Artificial Intelligence, and Data Mining**, with a focus on transforming data into meaningful insights and intelligent solutions.
+🧠 I'm passionate about **Data Science, Machine Learning, and Artificial Intelligence**, and I enjoy transforming complex problems into practical, data-driven solutions.
 
-📊 I've studied **Big Data and Cloud Computing**, and I'm eager to deepen my knowledge of data processing, scalable systems, and cloud-based technologies.
+💻 I love developing web and mobile applications, exploring intelligent systems, and bringing ideas to life through code.
 
-☁️ I'm familiar with **Docker and AWS**, and I'm continuously exploring containerization, cloud services, and modern development workflows.
+🎨 **Design is more than an interest to me — it's a passion.** I love exploring visual aesthetics, color palettes, creative interfaces, and the way thoughtful design makes technology more intuitive and engaging.
 
-🏅 I've earned certifications through **DataCamp and AWS**, reflecting my commitment to developing my technical skills and expanding my knowledge.
-
-💻 I enjoy building web and mobile applications, exploring intelligent systems, and connecting software engineering with data-driven technologies.
-
-🎨 I also enjoy the creative side of technology: thoughtful interfaces, modern aesthetics, and user experiences that make digital products intuitive and engaging.
-
-🌱 I'm always learning, experimenting, and looking for opportunities to grow at the intersection of **Data Science, AI, Software Engineering, Big Data, and Cloud Computing**.
+🌱 I'm continuously learning, experimenting, and looking for opportunities to combine technical knowledge with creativity.
 
 <br/>
 
@@ -62,7 +55,7 @@ Hi there! I'm **Sarah Askri** 👋
 
 <div align="center">
 
-### 🧠 DATA SCIENCE, AI & MACHINE LEARNING
+### 🧠 DATA SCIENCE & ARTIFICIAL INTELLIGENCE
 
 <img src="https://skillicons.dev/icons?i=python" alt="Python"/>
 &nbsp;
@@ -72,27 +65,11 @@ Hi there! I'm **Sarah Askri** 👋
 &nbsp;
 <img src="https://img.shields.io/badge/Data%20Analysis-0891B2?style=for-the-badge" alt="Data Analysis"/>
 
-### 📊 BIG DATA & DATA TECHNOLOGIES
-
-<img src="https://img.shields.io/badge/Big%20Data-0891B2?style=for-the-badge&logo=apachespark&logoColor=white" alt="Big Data"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Data%20Processing-0F766E?style=for-the-badge" alt="Data Processing"/>
-&nbsp;
-<img src="https://img.shields.io/badge/SQL-2563EB?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-
-### ☁️ CLOUD, CONTAINERS & DEVOPS
-
-<img src="https://skillicons.dev/icons?i=docker,aws" alt="Docker and AWS"/>
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="Amazon Web Services"/>
-<img src="https://img.shields.io/badge/Cloud%20Computing-4F46E5?style=for-the-badge&logo=icloud&logoColor=white" alt="Cloud Computing"/>
-
 ### 💻 WEB & MOBILE DEVELOPMENT
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,flutter,dart" alt="Web and mobile technologies"/>
 
-### 🗄️ DATABASES & DEVELOPER TOOLS
+### 🗄️ DATABASES & TOOLS
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,git,github,vscode,postman" alt="Databases and developer tools"/>
 
@@ -106,35 +83,11 @@ Hi there! I'm **Sarah Askri** 👋
 
 ---
 
-<!-- ═══════════════ CERTIFICATIONS ═══════════════ -->
-
-## 🏅 03 — Certifications & Continuous Learning
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/DataCamp-Certifications-03EF62?style=for-the-badge&logo=datacamp&logoColor=white" alt="DataCamp"/>
-<img src="https://img.shields.io/badge/AWS-Certifications%20%26%20Learning-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
-
-</div>
-
-I believe that continuous learning is essential in the fast-evolving world of technology. Alongside my Master's studies, I've pursued additional learning and certifications to strengthen my knowledge.
-
-- 🐍 **DataCamp:** Certifications and learning in data-related and technical subjects.
-- ☁️ **Amazon Web Services (AWS):** Certification-based learning and exploration of cloud technologies.
-- 🐳 **Docker:** Familiarity with containerization concepts and development environments.
-- 📚 **Big Data & Cloud Computing:** Academic learning and exploration of data processing and cloud-based systems.
-
-> *My goal is to keep strengthening my skills through practical projects, technical learning, and recognized certifications.*
-
-*Tip: Add the exact names of your certifications and their verification links when you are ready to showcase each credential individually.*
-
----
-
 <!-- ═══════════════ PROJECTS ═══════════════ -->
 
-## 🚀 04 — Selected Projects
+## 🚀 03 — Selected Projects
 
-*A collection of projects where data, intelligent systems, software engineering, and connected technologies come together.*
+*A collection of projects where data, intelligent systems, and software engineering come together.*
 
 <table>
 <tr>
@@ -159,7 +112,7 @@ Applying Data Mining techniques to natural disaster data to identify patterns, a
 
 A fitness and nutrition web and mobile application featuring workout tracking, nutritional insights, progress monitoring, and AI-assisted personalized recommendations.
 
-**Focus:** Flutter · React · Node.js · MongoDB · Firebase · AI
+**Focus:** Flutter · React · Node.js · MongoDB · Firebase
 
 </td>
 </tr>
@@ -198,7 +151,7 @@ An AI-focused project exploring intelligent solutions for civic-related challeng
 
 An IoT-based IV bag monitoring system designed to track fluid levels, monitor flow rates, estimate remaining time, and detect potential obstructions through connected sensors and application alerts.
 
-**Focus:** ESP32 · Flutter · Node.js · MongoDB · IoT
+**Focus:** ESP32 · Flutter · Node.js · MongoDB
 
 </td>
 </tr>
@@ -214,7 +167,7 @@ An IoT-based IV bag monitoring system designed to track fluid levels, monitor fl
 
 <!-- ═══════════════ CREATIVE SIDE ═══════════════ -->
 
-## 🎨 05 — Beyond Code: My Creative Side
+## 🎨 04 — Beyond Code: My Creative Side
 
 <div align="center">
 
@@ -239,7 +192,7 @@ My creative interests include:
 
 <!-- ═══════════════ GITHUB ANALYTICS ═══════════════ -->
 
-## 📊 06 — GitHub Analytics
+## 📊 05 — GitHub Analytics
 
 <div align="center">
 
@@ -261,7 +214,7 @@ My creative interests include:
 
 <!-- ═══════════════ CONNECT ═══════════════ -->
 
-## 🌐 07 — Let's Connect
+## 🌐 06 — Let's Connect
 
 <div align="center">
 
@@ -273,7 +226,7 @@ My creative interests include:
 
 <br/><br/>
 
-*Always curious. Always learning. Always building.*
+*Always curious. Always creating. Always building.*
 
 ### ✨ Thanks for stopping by!
 
