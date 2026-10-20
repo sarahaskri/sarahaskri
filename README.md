@@ -1,175 +1,315 @@
 
-<!-- ==================== HERO BANNER ==================== -->
+<!-- ===================================================== -->
+<!-- SARAH ASKRI | GITHUB PROFILE                          -->
+<!-- Data Science • AI • Software Engineering              -->
+<!-- ===================================================== -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:6A11CB,50:2575FC,100:00D4FF&text=Sarah%20Askri&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20%7C%20Artificial%20Intelligence%20%7C%20Software%20Engineering&descSize=15&descAlignY=58&animation=fadeIn" width="100%" alt="Sarah Askri profile banner"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Master's+Student+in+Data+Science;Exploring+AI+%26+Machine+Learning;Building+Software+Solutions;Turning+Data+into+Insights;Learning+Something+New+Every+Day" alt="Typing SVG"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,45:312E81,100:0891B2&text=SARAH%20ASKRI&fontSize=48&fontColor=FFFFFF&fontAlignY=36&desc=DATA%20SCIENCE%20%7C%20ARTIFICIAL%20INTELLIGENCE%20%7C%20SOFTWARE&descSize=12&descAlignY=57&animation=fadeIn" alt="Sarah Askri GitHub Banner"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=sarahaskri&label=PROFILE+VIEWS&color=6A11CB&style=for-the-badge" alt="Profile views"/>
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=900&color=67E8F9&center=true&vCenter=true&width=750&lines=Master%27s+Student+in+Data+Science;Exploring+Machine+Learning+%26+AI;Turning+Data+into+Meaningful+Insights;Building+Intelligent+Software+Solutions;Learning%2C+Experimenting%2C+Innovating+%E2%9C%A8" alt="Typing introduction"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/sarahaskri">
+  <img src="https://img.shields.io/badge/GitHub-sarahaskri-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<img src="https://img.shields.io/badge/Data%20Science-7C3AED?style=for-the-badge&logo=python&logoColor=white" alt="Data Science"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-2563EB?style=for-the-badge&logo=openai&logoColor=white" alt="AI"/>
+<img src="https://img.shields.io/badge/Software%20Engineering-0891B2?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Software Engineering"/>
+
+<br/><br/>
+
+<a href="https://github.com/sarahaskri?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore%20My-Projects-06B6D4?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects"/>
+</a>
 
 </div>
 
 ---
 
-<!-- ==================== ABOUT ME ==================== -->
+## ✦ 01 — About Me
 
-## 👩‍💻 About Me
+Hi! I'm **Sarah Askri** 👋
 
-Hello! I'm **Sarah Askri**, a Computer Science graduate currently pursuing my journey in **Data Science**.
+🎓 I'm a **Master's student in Data Science**, with a background in Software Engineering and Information Systems.
 
-I'm interested in exploring the power of data, developing intelligent solutions, and building applications that solve real-world problems.
+🧠 I'm interested in **Data Science, Machine Learning, Artificial Intelligence, and Data Mining**. I enjoy exploring data, discovering patterns, and developing intelligent solutions to real-world problems.
 
-- 🎓 **Background:** Software Engineering and Information Systems
-- 📊 **Main Interest:** Data Science and Data Mining
-- 🤖 **Exploring:** Artificial Intelligence and Machine Learning
-- 💻 **Also Interested In:** Full-Stack Development and IoT
-- 🌱 **Currently:** Expanding my knowledge through projects and hands-on learning
-- 🎯 **Goal:** Build impactful projects at the intersection of data, AI, and software engineering
+💻 My software development background allows me to approach projects from different perspectives — from data processing and model development to web and mobile application implementation.
+
+🔬 I enjoy experimenting with new technologies, building practical projects, solving technical challenges, and continuously strengthening my skills.
+
+🌍 Beyond technology, I'm curious about the world, enjoy discovering new places and cultures, and believe that continuous learning is one of the best ways to grow.
 
 <br/>
-
-<!-- ==================== TECHNICAL INTERESTS ==================== -->
-
-## ⚡ What Drives Me
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="55" alt="AI icon"/>
-      <h3>🤖 AI & Machine Learning</h3>
-      Exploring intelligent systems, predictive models, and machine learning techniques.
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/fluency/96/combo-chart.png" width="55" alt="Data analysis icon"/>
-      <h3>📊 Data Science</h3>
-      Analyzing data, discovering patterns, and extracting meaningful insights.
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/fluency/96/source-code.png" width="55" alt="Software engineering icon"/>
-      <h3>💻 Software Engineering</h3>
-      Developing applications that connect technology with practical needs.
-    </td>
-  </tr>
-</table>
-
----
-
-<!-- ==================== TECH STACK ==================== -->
-
-## 🛠️ Tech Stack
-
-### Languages & Data Science
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,js,dart,html,css" alt="Programming languages"/>
-</p>
-
-### AI, Data & Databases
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,mongodb,mysql,firebase" alt="AI and database technologies"/>
-</p>
-
-### Frameworks & Development
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,flutter,arduino" alt="Development technologies"/>
-</p>
-
-### Tools & Workflow
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Development tools"/>
-</p>
-
----
-
-<!-- ==================== PROJECTS ==================== -->
-
-## 🚀 Featured Projects
-
-A selection of projects exploring data analysis, machine learning, intelligent applications, and connected systems.
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌍 Natural Disaster Data Mining</h3>
-      <p>Applying data mining techniques to explore natural disasters, identify patterns, and analyze disaster-related data.</p>
-      <p><strong>Focus:</strong> Data Mining · Data Analysis · Python</p>
-      <a href="https://github.com/sarahaskri/natural-disaster-data-mining">
-        <img src="https://img.shields.io/badge/View_Repository-6A11CB?style=for-the-badge&logo=github&logoColor=white" alt="View Natural Disaster Data Mining repository"/>
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🩺 IoT Monitoring Application</h3>
-      <p>An IoT-based monitoring system designed to track liquid levels and flow conditions, estimate remaining time, and detect potential obstructions.</p>
-      <p><strong>Focus:</strong> IoT · ESP32 · Flutter · Node.js</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>💪 FitYes — Fitness & Nutrition</h3>
-      <p>A web and mobile fitness application developed as a final-year project, bringing together workout tracking, nutrition, and personal progress monitoring.</p>
-      <p><strong>Focus:</strong> Flutter · React · Node.js · MongoDB</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>😊 goEmotion</h3>
-      <p>A machine learning project focused on emotion-related analysis. Exploring how data and ML techniques can help extract meaningful information from emotional signals.</p>
-      <p><strong>Focus:</strong> Machine Learning · Python · Data Analysis</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏙️ CivicPulse AI</h3>
-      <p>An AI-oriented project exploring how intelligent technologies can contribute to understanding civic issues and supporting data-informed decisions.</p>
-      <p><strong>Focus:</strong> Artificial Intelligence · Data · Software Development</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔬 More Experiments</h3>
-      <p>Continuously exploring new ideas, testing technologies, and building projects to strengthen my skills in data, AI, and software development.</p>
-      <p><strong>Focus:</strong> Learning · Experimentation · Innovation</p>
-    </td>
-  </tr>
-</table>
-
----
-
-<!-- ==================== GITHUB STATISTICS ==================== -->
-
-## 📈 GitHub Statistics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sarahaskri&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=00D4FF&text_color=FFFFFF&rank_icon=github" alt="Sarah's GitHub statistics"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahaskri&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&langs_count=8" alt="Most used programming languages"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=sarahaskri&hide_border=true&background=0D1117&ring=8B5CF6&fire=00D4FF&currStreakLabel=8B5CF6&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" alt="GitHub contribution streak"/>
+> *"Turning data into insights, ideas into solutions, and curiosity into impact."*
 
 </div>
 
 ---
 
-<!-- ==================== CURRENT FOCUS ==================== -->
+## ✦ 02 — What I Work With
 
-## 🎯 Currently Exploring
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- 🤖 Machine Learning and Artificial Intelligence
-- 📊 Data Mining and data-driven problem solving
-- 🧩 Practical applications of Data Science
-- 🔗 Integrating software development with intelligent systems
-- 🚀 Building and improving personal projects
+### 🧠 Data Science & AI
+
+- Python programming
+- Data analysis and exploration
+- Data Mining
+- Machine Learning fundamentals
+- Data preprocessing
+- Pattern discovery and interpretation
+- AI-powered applications
+
+</td>
+<td width="50%" valign="top">
+
+### 💻 Software Engineering
+
+- Object-oriented programming
+- Web application development
+- Mobile application development
+- REST API development
+- Database design and integration
+- MVC architecture
+- Git and version control
+- Agile / Scrum methodology
+
+</td>
+</tr>
+</table>
 
 ---
 
-<!-- ==================== CONNECT ==================== -->
+## ✦ 03 — Technology Stack
 
-## 🌐 Let's Connect
+<div align="center">
+
+### 🧠 Programming & Data
+
+<img src="https://skillicons.dev/icons?i=python,java,js,dart&theme=dark" alt="Programming languages"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Data%20Analysis-0F766E?style=flat-square" alt="Data Analysis"/>
+<img src="https://img.shields.io/badge/Data%20Mining-7C3AED?style=flat-square" alt="Data Mining"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-2563EB?style=flat-square" alt="Machine Learning"/>
+
+### 🌐 Web & Mobile Development
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,flutter,dart&theme=dark" alt="Web and mobile stack"/>
+
+### 🗄️ Databases & Backend Services
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&theme=dark" alt="Database technologies"/>
+
+### ⚙️ Tools & Development Environment
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,arduino&theme=dark" alt="Development tools"/>
+
+### 🔌 Internet of Things
+
+<img src="https://img.shields.io/badge/ESP32-Connected%20Systems-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"/>
+<img src="https://img.shields.io/badge/IoT-Sensor%20Monitoring-0891B2?style=for-the-badge" alt="IoT"/>
+
+</div>
+
+---
+
+## ✦ 04 — Featured Projects
+
+<div align="center">
+
+*From data exploration to intelligent applications — here are some of the projects I'm working on.*
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌍 Natural Disaster Data Mining
+
+<img src="https://img.shields.io/badge/DOMAIN-DATA%20SCIENCE-7C3AED?style=flat-square" alt="Data Science"/>
+
+Exploring natural disaster datasets using Data Mining techniques to identify patterns, analyze trends, and extract meaningful insights.
+
+**Technologies**
+
+`Python` `Data Analysis` `Data Mining`
+
+<a href="https://github.com/sarahaskri/natural-disaster-data-mining">↗ View Repository</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🏋️ FitYes
+
+<img src="https://img.shields.io/badge/DOMAIN-AI%20%26%20SOFTWARE-0891B2?style=flat-square" alt="AI and Software"/>
+
+A fitness and nutrition web and mobile application featuring progress tracking, nutritional insights, workout management, and AI-assisted personalized recommendations.
+
+**Technologies**
+
+`Flutter` `React` `Node.js` `MongoDB` `Firebase` `Gemini AI`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 goEmotion
+
+<img src="https://img.shields.io/badge/DOMAIN-MACHINE%20LEARNING-6D28D9?style=flat-square" alt="Machine Learning"/>
+
+A Machine Learning project focused on emotion-related analysis and prediction, exploring how data-driven models can identify meaningful patterns.
+
+**Technologies**
+
+`Python` `Machine Learning`
+
+</td>
+<td width="50%" valign="top">
+
+### 🏙️ CivicPulse AI
+
+<img src="https://img.shields.io/badge/DOMAIN-ARTIFICIAL%20INTELLIGENCE-0F766E?style=flat-square" alt="Artificial Intelligence"/>
+
+An AI-oriented project exploring intelligent, data-driven approaches to civic challenges and the development of useful digital solutions.
+
+**Technologies**
+
+`AI` `Data Science`
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" valign="top">
+
+### 🏥 IoT-Based IV Bag Monitoring System
+
+<img src="https://img.shields.io/badge/DOMAIN-IOT%20%26%20CONNECTED%20SYSTEMS-0E7490?style=flat-square" alt="IoT"/>
+
+A connected monitoring system designed to track IV fluid levels, monitor flow rates, estimate remaining infusion time, and detect potential obstructions using sensors and application alerts.
+
+**Technologies**
+
+`ESP32` `Flutter` `Node.js` `MongoDB` `Sensors`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<a href="https://github.com/sarahaskri?tab=repositories">
+  <img src="https://img.shields.io/badge/More%20Projects-Explore%20Repositories-312E81?style=for-the-badge&logo=github&logoColor=white" alt="More projects"/>
+</a>
+
+</div>
+
+---
+
+## ✦ 05 — Currently Exploring
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+<img src="https://img.shields.io/badge/01-7C3AED?style=for-the-badge" alt="01"/>
+
+**Data Science**
+
+Data preparation, exploration, and insight generation.
+
+</td>
+<td align="center" width="25%">
+
+<img src="https://img.shields.io/badge/02-2563EB?style=for-the-badge" alt="02"/>
+
+**Machine Learning**
+
+Understanding models and evaluating their performance.
+
+</td>
+<td align="center" width="25%">
+
+<img src="https://img.shields.io/badge/03-0891B2?style=for-the-badge" alt="03"/>
+
+**Artificial Intelligence**
+
+Exploring AI applications and intelligent systems.
+
+</td>
+<td align="center" width="25%">
+
+<img src="https://img.shields.io/badge/04-059669?style=for-the-badge" alt="04"/>
+
+**Software Development**
+
+Building reliable and practical applications.
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## ✦ 06 — GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/sarahaskri">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sarahaskri&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=22D3EE&text_color=C9D1D9&rank_icon=github" alt="Sarah's GitHub statistics"/>
+</a>
+
+<a href="https://github.com/sarahaskri">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahaskri&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" alt="Most used programming languages"/>
+</a>
+
+<br/><br/>
+
+<img width="95%" src="https://streak-stats.demolab.com?user=sarahaskri&hide_border=true&background=0D1117&ring=8B5CF6&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=C9D1D9&dates=9CA3AF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=sarahaskri&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub profile trophies"/>
+
+</div>
+
+---
+
+## ✦ 07 — Beyond Technology
+
+Technology is a big part of my journey, but curiosity goes beyond code.
+
+- 🌍 **Exploration:** Discovering new places, cultures, and perspectives.
+- 📚 **Continuous learning:** Developing new skills and exploring emerging technologies.
+- 🧩 **Problem-solving:** Breaking complex challenges into manageable solutions.
+- 🤝 **Collaboration:** Sharing ideas, learning from others, and building projects together.
+- 🚀 **Innovation:** Turning concepts into practical experiments and useful applications.
+
+---
+
+## ✦ 08 — Let's Connect
 
 <div align="center">
 
@@ -178,31 +318,19 @@ I'm always interested in learning, exchanging ideas, and collaborating on meanin
 <br/>
 
 <a href="https://github.com/sarahaskri">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
 </a>
 
 <!-- Add your LinkedIn URL when ready -->
-<!--
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
--->
 
-<!-- Add your professional email when ready -->
-<!--
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
--->
+<br/><br/>
 
-</div>
+**Open to learning opportunities, technical collaboration, and innovative projects.**
 
----
+<br/>
 
-<div align="center">
+*Curious mind. Data-driven thinking. Continuous growth.*
 
-### ✨ Turning curiosity into code, and data into possibilities.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:2575FC,100:6A11CB&height=120&section=footer" width="100%" alt="Decorative gradient footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0891B2,50:312E81,100:0F172A" alt="Footer banner"/>
 
 </div>
