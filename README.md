@@ -1,236 +1,208 @@
 
-<!-- ═══════════════════════════════════════════════
-     SARAH ASKRI | GITHUB PROFILE
-     Creative identity: Beyond the Code
-════════════════════════════════════════════════ -->
-
+<!-- ==================== HERO BANNER ==================== -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:7C3AED,45:4F46E5,100:06B6D4&text=SARAH%20ASKRI&fontSize=48&fontColor=FFFFFF&fontAlignY=35&desc=DATA%20SCIENCE%20%7C%20AI%20%7C%20SOFTWARE%20%7C%20DESIGN&descSize=14&descAlignY=56&animation=fadeIn" alt="Sarah Askri — Data Science, AI, Software and Design"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:6A11CB,50:2575FC,100:00D4FF&text=Sarah%20Askri&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20%7C%20Artificial%20Intelligence%20%7C%20Software%20Engineering&descSize=15&descAlignY=58&animation=fadeIn" width="100%" alt="Sarah Askri profile banner"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Master's+Student+in+Data+Science;Exploring+AI+%26+Machine+Learning;Building+Software+Solutions;Turning+Data+into+Insights;Learning+Something+New+Every+Day" alt="Typing SVG"/>
 
 <br/>
 
-<a href="https://readme-typing-svg.demolab.com">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2800&pause=800&color=67E8F9&center=true&vCenter=true&width=700&lines=Master%27s+Student+in+Data+Science;Exploring+AI+%26+Machine+Learning;Building+Ideas+into+Intelligent+Solutions;Passionate+about+Creative+Design+%26+UI%2FUX;Where+Logic+Meets+Creativity+%E2%9C%A8" alt="Animated introduction"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/sarahaskri">
-<img src="https://img.shields.io/badge/GitHub-Sarah%20Askri-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<img src="https://img.shields.io/badge/Data%20Science-7C3AED?style=for-the-badge&logo=python&logoColor=white" alt="Data Science"/>
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-4F46E5?style=for-the-badge&logo=openai&logoColor=white" alt="Artificial Intelligence"/>
-<img src="https://img.shields.io/badge/Creative%20Design-DB2777?style=for-the-badge&logo=figma&logoColor=white" alt="Creative Design"/>
+<img src="https://komarev.com/ghpvc/?username=sarahaskri&label=PROFILE+VIEWS&color=6A11CB&style=for-the-badge" alt="Profile views"/>
 
 </div>
 
 ---
 
-<!-- ═══════════════ ABOUT ME ═══════════════ -->
+<!-- ==================== ABOUT ME ==================== -->
 
-## ✨ 01 — About Me
+## 👩‍💻 About Me
 
-Hi there! I'm **Sarah Askri** 👋
+Hello! I'm **Sarah Askri**, a Computer Science graduate currently pursuing my journey in **Data Science**.
 
-🎓 I'm a **Master's student in Data Science**, with a background in Software Engineering and Information Systems.
+I'm interested in exploring the power of data, developing intelligent solutions, and building applications that solve real-world problems.
 
-🧠 I'm passionate about **Data Science, Machine Learning, and Artificial Intelligence**, and I enjoy transforming complex problems into practical, data-driven solutions.
-
-💻 I love developing web and mobile applications, exploring intelligent systems, and bringing ideas to life through code.
-
-🎨 **Design is more than an interest to me — it's a passion.** I love exploring visual aesthetics, color palettes, creative interfaces, and the way thoughtful design makes technology more intuitive and engaging.
-
-🌱 I'm continuously learning, experimenting, and looking for opportunities to combine technical knowledge with creativity.
+- 🎓 **Background:** Software Engineering and Information Systems
+- 📊 **Main Interest:** Data Science and Data Mining
+- 🤖 **Exploring:** Artificial Intelligence and Machine Learning
+- 💻 **Also Interested In:** Full-Stack Development and IoT
+- 🌱 **Currently:** Expanding my knowledge through projects and hands-on learning
+- 🎯 **Goal:** Build impactful projects at the intersection of data, AI, and software engineering
 
 <br/>
 
-> 💜 *I believe the best solutions happen where intelligence meets creativity.*
+<!-- ==================== TECHNICAL INTERESTS ==================== -->
 
----
-
-<!-- ═══════════════ TECHNOLOGY STACK ═══════════════ -->
-
-## 🛠️ 02 — My Technology Universe
-
-<div align="center">
-
-### 🧠 DATA SCIENCE & ARTIFICIAL INTELLIGENCE
-
-<img src="https://skillicons.dev/icons?i=python" alt="Python"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Data%20Mining-7C3AED?style=for-the-badge" alt="Data Mining"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Machine%20Learning-4F46E5?style=for-the-badge" alt="Machine Learning"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Data%20Analysis-0891B2?style=for-the-badge" alt="Data Analysis"/>
-
-### 💻 WEB & MOBILE DEVELOPMENT
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,flutter,dart" alt="Web and mobile technologies"/>
-
-### 🗄️ DATABASES & TOOLS
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,git,github,vscode,postman" alt="Databases and developer tools"/>
-
-### 🔌 IoT & CONNECTED SYSTEMS
-
-<img src="https://skillicons.dev/icons?i=arduino" alt="Arduino"/>
-&nbsp;
-<img src="https://img.shields.io/badge/ESP32-IoT%20Development-CC342D?style=for-the-badge" alt="ESP32"/>
-
-</div>
-
----
-
-<!-- ═══════════════ PROJECTS ═══════════════ -->
-
-## 🚀 03 — Selected Projects
-
-*A collection of projects where data, intelligent systems, and software engineering come together.*
+## ⚡ What Drives Me
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-<h3>🌍 Natural Disaster Data Mining</h3>
-
-<img src="https://img.shields.io/badge/DATA%20SCIENCE-7C3AED?style=flat-square" alt="Data Science"/>
-
-Applying Data Mining techniques to natural disaster data to identify patterns, analyze trends, and extract meaningful insights.
-
-**Focus:** Python · Data Analysis · Data Mining
-
-<a href="https://github.com/sarahaskri/natural-disaster-data-mining"><strong>↗ Explore Repository</strong></a>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>🏋️ FitYes</h3>
-
-<img src="https://img.shields.io/badge/AI%20%2B%20APPLICATIONS-0891B2?style=flat-square" alt="AI and applications"/>
-
-A fitness and nutrition web and mobile application featuring workout tracking, nutritional insights, progress monitoring, and AI-assisted personalized recommendations.
-
-**Focus:** Flutter · React · Node.js · MongoDB · Firebase
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-<h3>🧠 goEmotion</h3>
-
-<img src="https://img.shields.io/badge/MACHINE%20LEARNING-6D28D9?style=flat-square" alt="Machine Learning"/>
-
-A Machine Learning project focused on emotion-related analysis and intelligent prediction.
-
-**Focus:** Python · Machine Learning
-
-</td>
-<td width="50%" valign="top">
-
-<h3>🏙️ CivicPulse AI</h3>
-
-<img src="https://img.shields.io/badge/ARTIFICIAL%20INTELLIGENCE-0F766E?style=flat-square" alt="Artificial Intelligence"/>
-
-An AI-focused project exploring intelligent solutions for civic-related challenges.
-
-**Focus:** AI · Data Science
-
-</td>
-</tr>
-
-<tr>
-<td colspan="2" valign="top">
-
-<h3>🏥 IoT Monitoring Application</h3>
-
-<img src="https://img.shields.io/badge/INTERNET%20OF%20THINGS-0E7490?style=flat-square" alt="Internet of Things"/>
-
-An IoT-based IV bag monitoring system designed to track fluid levels, monitor flow rates, estimate remaining time, and detect potential obstructions through connected sensors and application alerts.
-
-**Focus:** ESP32 · Flutter · Node.js · MongoDB
-
-</td>
-</tr>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="55" alt="AI icon"/>
+      <h3>🤖 AI & Machine Learning</h3>
+      Exploring intelligent systems, predictive models, and machine learning techniques.
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/fluency/96/combo-chart.png" width="55" alt="Data analysis icon"/>
+      <h3>📊 Data Science</h3>
+      Analyzing data, discovering patterns, and extracting meaningful insights.
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/fluency/96/source-code.png" width="55" alt="Software engineering icon"/>
+      <h3>💻 Software Engineering</h3>
+      Developing applications that connect technology with practical needs.
+    </td>
+  </tr>
 </table>
 
+---
+
+<!-- ==================== TECH STACK ==================== -->
+
+## 🛠️ Tech Stack
+
+### Languages & Data Science
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,js,dart,html,css" alt="Programming languages"/>
+</p>
+
+### AI, Data & Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,mongodb,mysql,firebase" alt="AI and database technologies"/>
+</p>
+
+### Frameworks & Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,flutter,arduino" alt="Development technologies"/>
+</p>
+
+### Tools & Workflow
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Development tools"/>
+</p>
+
+---
+
+<!-- ==================== PROJECTS ==================== -->
+
+## 🚀 Featured Projects
+
+A selection of projects exploring data analysis, machine learning, intelligent applications, and connected systems.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌍 Natural Disaster Data Mining</h3>
+      <p>Applying data mining techniques to explore natural disasters, identify patterns, and analyze disaster-related data.</p>
+      <p><strong>Focus:</strong> Data Mining · Data Analysis · Python</p>
+      <a href="https://github.com/sarahaskri/natural-disaster-data-mining">
+        <img src="https://img.shields.io/badge/View_Repository-6A11CB?style=for-the-badge&logo=github&logoColor=white" alt="View Natural Disaster Data Mining repository"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🩺 IoT Monitoring Application</h3>
+      <p>An IoT-based monitoring system designed to track liquid levels and flow conditions, estimate remaining time, and detect potential obstructions.</p>
+      <p><strong>Focus:</strong> IoT · ESP32 · Flutter · Node.js</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💪 FitYes — Fitness & Nutrition</h3>
+      <p>A web and mobile fitness application developed as a final-year project, bringing together workout tracking, nutrition, and personal progress monitoring.</p>
+      <p><strong>Focus:</strong> Flutter · React · Node.js · MongoDB</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>😊 goEmotion</h3>
+      <p>A machine learning project focused on emotion-related analysis. Exploring how data and ML techniques can help extract meaningful information from emotional signals.</p>
+      <p><strong>Focus:</strong> Machine Learning · Python · Data Analysis</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏙️ CivicPulse AI</h3>
+      <p>An AI-oriented project exploring how intelligent technologies can contribute to understanding civic issues and supporting data-informed decisions.</p>
+      <p><strong>Focus:</strong> Artificial Intelligence · Data · Software Development</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔬 More Experiments</h3>
+      <p>Continuously exploring new ideas, testing technologies, and building projects to strengthen my skills in data, AI, and software development.</p>
+      <p><strong>Focus:</strong> Learning · Experimentation · Innovation</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- ==================== GITHUB STATISTICS ==================== -->
+
+## 📈 GitHub Statistics
+
 <div align="center">
 
-*More details, source code, and documentation are available in the respective project repositories as they are published.*
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sarahaskri&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=00D4FF&text_color=FFFFFF&rank_icon=github" alt="Sarah's GitHub statistics"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahaskri&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&langs_count=8" alt="Most used programming languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=sarahaskri&hide_border=true&background=0D1117&ring=8B5CF6&fire=00D4FF&currStreakLabel=8B5CF6&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" alt="GitHub contribution streak"/>
 
 </div>
 
 ---
 
-<!-- ═══════════════ CREATIVE SIDE ═══════════════ -->
+<!-- ==================== CURRENT FOCUS ==================== -->
 
-## 🎨 04 — Beyond Code: My Creative Side
+## 🎯 Currently Exploring
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/CREATIVE%20DESIGN-7C3AED?style=for-the-badge&logo=figma&logoColor=white" alt="Creative Design"/>
-<img src="https://img.shields.io/badge/UI%2FUX-DB2777?style=for-the-badge" alt="UI UX"/>
-<img src="https://img.shields.io/badge/VISUAL%20STORYTELLING-0891B2?style=for-the-badge" alt="Visual Storytelling"/>
-
-</div>
-
-I believe technology should not only work well — it should also look beautiful, feel intuitive, and create memorable experiences.
-
-My creative interests include:
-
-- 🎨 Exploring color palettes, visual identities, and modern aesthetics.
-- 🪄 Discovering UI/UX principles and designing intuitive interfaces.
-- 💡 Combining creativity with technical problem-solving.
-- ✨ Making applications visually engaging and enjoyable to use.
-
-**My creative philosophy:** Great technology solves problems. Great design makes people love using it.
+- 🤖 Machine Learning and Artificial Intelligence
+- 📊 Data Mining and data-driven problem solving
+- 🧩 Practical applications of Data Science
+- 🔗 Integrating software development with intelligent systems
+- 🚀 Building and improving personal projects
 
 ---
 
-<!-- ═══════════════ GITHUB ANALYTICS ═══════════════ -->
+<!-- ==================== CONNECT ==================== -->
 
-## 📊 05 — GitHub Analytics
+## 🌐 Let's Connect
 
 <div align="center">
 
-<a href="https://github.com/sarahaskri">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sarahaskri&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=67E8F9&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics"/>
-</a>
+I'm always interested in learning, exchanging ideas, and collaborating on meaningful technology projects.
+
+<br/>
 
 <a href="https://github.com/sarahaskri">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahaskri&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" alt="Most used languages"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-<br/><br/>
+<!-- Add your LinkedIn URL when ready -->
+<!--
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+-->
 
-<img width="95%" src="https://streak-stats.demolab.com?user=sarahaskri&hide_border=true&background=0D1117&ring=A78BFA&fire=67E8F9&currStreakLabel=67E8F9&sideLabels=C9D1D9&dates=9CA3AF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak"/>
+<!-- Add your professional email when ready -->
+<!--
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+-->
 
 </div>
 
 ---
 
-<!-- ═══════════════ CONNECT ═══════════════ -->
-
-## 🌐 06 — Let's Connect
-
 <div align="center">
 
-<a href="https://github.com/sarahaskri">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
+### ✨ Turning curiosity into code, and data into possibilities.
 
-<!-- Add your verified LinkedIn URL here when ready -->
-
-<br/><br/>
-
-*Always curious. Always creating. Always building.*
-
-### ✨ Thanks for stopping by!
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:06B6D4,50:4F46E5,100:7C3AED" alt="Decorative gradient footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:2575FC,100:6A11CB&height=120&section=footer" width="100%" alt="Decorative gradient footer"/>
 
 </div>
-
