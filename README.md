@@ -225,7 +225,7 @@ A fitness and nutrition web and mobile application featuring workout tracking, n
 <tr>
 <td width="50%" valign="top">
 
-<h3>🧠 goEmotion</h3>
+<h3>🧠 Go_emotions</h3>
 
 <img src="https://img.shields.io/badge/MACHINE%20LEARNING-6D28D9?style=flat-square" alt="Machine Learning"/>
 
