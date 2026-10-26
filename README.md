@@ -198,9 +198,9 @@ This project reflects my interest in going beyond traditional application develo
 <tr>
 <td width="50%" valign="top">
 
-<h3>🌍 Natural Disaster Data Mining</h3>
+<h3>🌍 Natural Disaster </h3>
 
-<img src="https://img.shields.io/badge/DATA%20SCIENCE-7C3AED?style=flat-square" alt="Data Science"/>
+<img src="https://img.shields.io/badge/DATA%20SCIENCE-7C3AED?style=flat-square" alt="Data Mining"/>
 
 Applying Data Mining techniques to natural disaster data to identify patterns, analyze trends, and extract meaningful insights.
 
@@ -225,7 +225,7 @@ A fitness and nutrition web and mobile application featuring workout tracking, n
 <tr>
 <td width="50%" valign="top">
 
-<h3>🧠 Go_emotions</h3>
+<h3>🧠 Go Emotions</h3>
 
 <img src="https://img.shields.io/badge/MACHINE%20LEARNING-6D28D9?style=flat-square" alt="Machine Learning"/>
 
