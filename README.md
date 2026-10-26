@@ -200,7 +200,7 @@ This project reflects my interest in going beyond traditional application develo
 
 <h3>🌍 Natural Disaster </h3>
 
-<img src="https://img.shields.io/badge/DATA%20SCIENCE-7C3AED?style=flat-square" alt="Data Mining"/>
+<img src="https://img.shields.io/badge/DATA%20MINING-7C3AED?style=flat-square" alt="Data Mining"/>
 
 Applying Data Mining techniques to natural disaster data to identify patterns, analyze trends, and extract meaningful insights.
 
