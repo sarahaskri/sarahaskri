@@ -219,6 +219,8 @@ A fitness and nutrition web and mobile application featuring workout tracking, n
 
 **Focus:** Flutter · React · Node.js · MongoDB · Firebase · Gemini AI
 
+<a href="https://github.com/sarahaskri/FitYes-Fitness-Wellness-Platform"><strong>↗ Explore Repository</strong></a>
+
 </td>
 </tr>
 
@@ -232,6 +234,8 @@ A fitness and nutrition web and mobile application featuring workout tracking, n
 A Machine Learning project focused on emotion-related analysis and intelligent prediction.
 
 **Focus:** Python · Machine Learning
+
+<a href="https://github.com/sarahaskri/Go_emotions"><strong>↗ Explore Repository</strong></a>
 
 </td>
 <td width="50%" valign="top">
