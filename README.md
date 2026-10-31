@@ -247,6 +247,7 @@ A Machine Learning project focused on emotion-related analysis and intelligent p
 An AI-driven civic innovation project proposed by IdeaLab at my faculty and selected from a list of ENA projects. The project explores the use of an AI agent to support intelligent, civic-oriented solutions.
 
 **Focus:** AI Agents · Artificial Intelligence · Intelligent Systems
+<a href="https://github.com/sarahaskri/Civic-Pulse-AI"><strong>↗ Explore Repository</strong></a>
 
 </td>
 </tr>
@@ -261,6 +262,7 @@ An AI-driven civic innovation project proposed by IdeaLab at my faculty and sele
 An IoT monitoring application designed to track IV fluid levels, monitor flow, estimate the remaining time, and detect potential obstructions using connected sensors and application alerts.
 
 **Focus:** ESP32 · Flutter · Node.js · MongoDB · Sensor Integration
+<a href="https://github.com/sarahaskri/IV-Bag-Monitoring-System"><strong>↗ Explore Repository</strong></a>
 
 </td>
 </tr>
